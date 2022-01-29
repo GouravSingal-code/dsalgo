@@ -1,0 +1,13 @@
+body{
+    background-color:greenyellow;
+}
+
+#container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#canvas{
+    background-color:aqua;
+}
